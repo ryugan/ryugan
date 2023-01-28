@@ -6,7 +6,7 @@
 </p>
 
 <p>
-I'm Fabien, Fullstack developer 👨‍💻 for more than 9 years 🚀</br> 
+I'm Fabien, Fullstack web developer 👨‍💻 for more than 9 years 🚀</br> 
 I'm from <img src="https://user-images.githubusercontent.com/167338/210260847-7cbc61a3-c28f-4916-bbcf-4fcaeb285455.png" width="13"/> <b>France</b>, and I still live there 📍</p>
 
 <h3>Today I mainly code with :</h3>
